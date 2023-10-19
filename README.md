@@ -67,6 +67,24 @@ Here are some examples of how to use the Simple Image Editor for common tasks:
 ![SK After](https://i.ibb.co/qgggvSr/wgjwrjg.png) ![SK After](https://i.ibb.co/pzt5ybV/rvkwkrv.png)
 
 
+- **Merge two images together** 
+
+
+![MB Before](https://i.ibb.co/tHW9NJ4/boy.png)
+![MB Before](https://i.ibb.co/wctBmdp/nature.png)
+![MB After](https://i.ibb.co/hmnRv2z/mixed.png)
+
+
+
+- **Cyberpunk's Filter** 
+
+
+
+![MB Before](https://i.ibb.co/tHW9NJ4/boy.png)
+![MB Before](https://i.ibb.co/DrHbjN4/bunk.png)
+
+
+
 
 
 And more filters you should discover :smile: 
