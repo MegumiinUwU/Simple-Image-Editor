@@ -1,0 +1,3 @@
+C:/Users/youssef/Desktop/ASSIGNMENT/cmake-build-debug/CMakeFiles/ASSIGNMENT.dir
+C:/Users/youssef/Desktop/ASSIGNMENT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/youssef/Desktop/ASSIGNMENT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
