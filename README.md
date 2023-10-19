@@ -19,24 +19,54 @@ Image editing is a common need in various fields, from web development to graphi
 
 Here are some examples of how to use the Simple Image Editor for common tasks:
 
-- **Oil painting:** 
+- **Oil painting:**
+
+
 ![OP Before](https://i.ibb.co/wctBmdp/nature.png) ![OP After](https://i.ibb.co/z80dmWW/epqvpeqj.png)
 
-- **Detect Image Edges:** 
+
+
+
+- **Detect Image Edges:**
+
+
 ![D Before](https://i.ibb.co/tHW9NJ4/boy.png) ![D After](https://i.ibb.co/TcD7whm/hcwjkchkc.png)
 ![D After](https://i.ibb.co/RTLSGq8/inkedd.png) ![D After](https://i.ibb.co/x2hxwvF/egeg.png)
-- **Blur Image:** 
+
+
+
+
+- **Blur Image:**
+
+
 ![B Before](https://i.ibb.co/tHW9NJ4/boy.png) ![B After](https://i.ibb.co/GW1wjKq/bluredd.png)
-- **Sepia filter:** 
+
+
+- **Sepia filter:**
+
+
 ![S Before](https://i.ibb.co/wctBmdp/nature.png) ![S After](https://i.ibb.co/Xkt6MqG/mkfeqmkeqf.png)
-- **Oranged filter:** 
+
+
+- **Oranged filter:**
+
+
 ![O Before](https://i.ibb.co/wctBmdp/nature.png) ![O After](https://i.ibb.co/SxKvKGb/lkmefwf.png)
-- **Enlarge Image:** 
+
+
+- **Enlarge Image:**
+
 ![R Before](https://i.ibb.co/tHW9NJ4/boy.png) ![R After](https://i.ibb.co/pWs7K7r/boye.png)
-- **Skew an Image (You can select Skew angle):** 
+
+
+- **Skew an Image (You can select Skew angle):**
+
 ![SK Before](https://i.ibb.co/tHW9NJ4/boy.png) 
 
+
 ![SK After](https://i.ibb.co/qgggvSr/wgjwrjg.png) ![SK After](https://i.ibb.co/pzt5ybV/rvkwkrv.png)
+
+
 
 
 And more filters you should discover :smile: 
