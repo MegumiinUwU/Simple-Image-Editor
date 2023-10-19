@@ -73,7 +73,12 @@ And more filters you should discover :smile:
 
 ## Bonus feature 
 
-- **Ascii art generator:** ![ASC Before](https://i.ibb.co/Sr8Lr22/mario.png) 
+- **Ascii art generator:**
+
+
+ ![ASC Before](https://i.ibb.co/Sr8Lr22/mario.png) 
+
+ 
 
                                                       
                           ..........                  
