@@ -158,6 +158,8 @@ And more filters you should discover :smile:
 
 
 
+You will find the result in ASCIIART.txt file to use later in your chats :sparkles:
+
 
 
 ## license and copyright notice
@@ -167,7 +169,6 @@ And more filters you should discover :smile:
       
 
 
-You will find the result in ASCIIART.txt file to use later in your chats :sparkles:
 
 ## Contributions
 
