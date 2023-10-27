@@ -150,7 +150,20 @@ And more filters you should discover :smile:
                         ..         ..                 
                           ..     ..                   
                              ...                      
-                                                      
+
+
+
+
+
+
+
+
+
+
+## license and copyright notice
+
+- This project was a part of an assignment by Dr Mohamed Elramely at FCAI
+- The library bmplib.h is utilized for reading the images created by Sanket Chauhan, but you have the option to use your own library for reading and writing, as the algorithm remains the same.
       
 
 
