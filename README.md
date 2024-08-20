@@ -164,7 +164,7 @@ You will find the result in ASCIIART.txt file to use later in your chats :sparkl
 
 ## license and copyright notice
 
-- This project was a part of an assignment by Dr Mohamed Elramely at FCAI
+- This project was a part of an assignment by Dr Mohamed Elramly at FCAI
 - The library bmplib.h is utilized for reading the images created by Sanket Chauhan, but you have the option to use your own library for reading and writing, as the algorithm remains the same.
       
 
